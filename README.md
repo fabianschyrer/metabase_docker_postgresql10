@@ -1,5 +1,5 @@
 # README - metabase_docker_postgresql10
-Docker Container PostgreSQL 10
+Docker Container PostgreSQL 10 for Metabase Deployment
 
 Dockerfile for PostgreSQL10 <br/>
 custom postgres.conf <br/>
