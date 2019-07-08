@@ -1,5 +1,5 @@
 # Pull base Docker image
-docker build -t <DOCKER_REGISTRY>/metabase.docker.postgres:latest .
+docker build -t fabianschyrer/metabase.docker.postgres:latest .
 
 
 

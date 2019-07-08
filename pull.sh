@@ -1,3 +1,3 @@
 # Pull image from GCR
-docker pull <DOCKER_REGISTRY>/metabase.docker.postgres:latest
+docker pull fabianschyrer/metabase.docker.postgres:latest
 

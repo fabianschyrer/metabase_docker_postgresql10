@@ -16,7 +16,7 @@ docker run --publish 5432:5432 \
   --network="metabase-network" \
   --env-file=pg-env.list \
    --detach \
-   <DOCKER_REGISTRY>/metabase.docker.postgres:latest \
+   fabianschyrer/metabase.docker.postgres:latest \
     -c 'config_file=/etc/postgresql/postgresql.conf' \
   	-c 'hba_file=/etc/postgresql/pg_hba.conf'
 
